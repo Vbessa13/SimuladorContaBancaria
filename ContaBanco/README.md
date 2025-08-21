@@ -16,22 +16,6 @@ O programa solicita informações do usuário (Número da Conta, Agência, Nome 
   NumberFormat nf = NumberFormat.getNumberInstance(new Locale("pt", "BR"));
   nf.setMinimumFractionDigits(2);
 
-## 📂 Estrutura de Pastas
-
-O projeto segue a seguinte organização padrão do Java no VS Code:
-```java
-ContaBanco/
-│
-├── src/                # Código-fonte Java
-│   └── ContaTerminal.java
-│
-├── lib/                # Dependências externas (se houver)
-│
-├── bin/                # Arquivos compilados (.class)
-│
-├── .vscode/            # Configurações do VS Code
-│
-└── README.md           # Documentação do projeto;
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
