@@ -31,7 +31,7 @@ ContaBanco/
 │
 ├── .vscode/            # Configurações do VS Code
 │
-└── README.md           # Documentação do projeto
+└── README.md           # Documentação do projeto;
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
